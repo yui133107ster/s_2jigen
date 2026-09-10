@@ -221,6 +221,6 @@ categories:
 【乙統女】
 呼呼呼…
 
-![kokodegazou](cover.jpg)
-
+![kokodegazou/cover.jpg](/cover.jpg)
+![kokodegazou_full/post/chuou_halloween/cover.jpg](/post/chuou_halloween/cover.jpg)
 ～fin～
