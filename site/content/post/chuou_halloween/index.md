@@ -1,16 +1,18 @@
-+++
-image = "https://linkstorage.linkfire.com/medialinks/images/a4720895-46d2-4da1-880c-1c59e1f66721/artwork-440x440.jpg"
-date = '2026-09-09'
-draft = false
-title = 'Drama「魔女們的下午」'
-
-summary = "長度6分06秒．原題「魔女たちの昼下がり」（如無此行字，就會顯示全部內文）"
-categories = ["原作DramaTrack"]
-tags = [
-    "中王區","乙統女","無花果","合歡"
-]
-+++
-
+---
+draft: false
+summary: 長度6分06秒．原題「魔女たちの昼下がり」（如無此行字，就會顯示全部內文）
+title: Drama「魔女們的下午」
+date: 2026-09-09
+tags:
+  - 中王區
+  - 乙統女
+  - 無花果
+  - 合歡
+description: 這行字…從本機上傳時不用填這個也能公開文章，但在admin後台編輯時卻是必填項目。
+image: cover.jpg
+categories:
+  - 原作DramaTrack
+---
 【無花果】
 這、這樣穿就好了吧…？
 手袖…沒問題。裙子的曲線也不太浮誇，只用一層裙撐。嗯，不錯！
@@ -218,5 +220,7 @@ tags = [
 
 【乙統女】
 呼呼呼…
+
+![kokodegazou](cover.jpg)
 
 ～fin～
